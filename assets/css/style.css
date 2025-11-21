@@ -1,0 +1,97 @@
+body {
+    background-color: #D4D0DC;
+    color: #1B1725;
+    font-family: "Figtree", sans-serif;   
+}
+
+h1 {
+    font-weight: 800;
+    letter-spacing: 1.25px;   
+}
+
+h2 {
+    font-weight: 600;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: .5px;
+}
+
+p {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+ li {
+    padding-left: 50px;
+    padding-right: 50px;
+ }
+
+ a:hover {
+    color: #CB8567 !important;
+
+ }
+
+.project-img {
+    max-height: 275px;
+    margin-right: 20px;
+    border-radius: 7.5%;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.lh-side {
+    background-color: #1B1725;
+    color: #CAC5D3;
+    position: sticky;
+    height: 100vh;
+    top: 0;
+}
+
+.rh-side {
+    height: 100vh;
+    overflow-y: auto;
+}
+
+  .contact {
+    padding-top: 20px;
+ }
+
+  .navbar {
+    font-size: 18px;
+    color: #1B1725 !important;
+ }
+
+ #skills-title {
+    padding-bottom: 20px;
+ }
+
+ #github-logo {
+    height: 40px;
+    width: auto;
+    padding-right: 20px;
+ }
+
+ #email {
+    text-decoration: none;
+    text-align: center;
+    color: #D4D0DC !important;
+ }
+
+ #email:hover {
+    color: #CB8567 !important;
+ }
+
+ #title {
+    color: #F6F4F4;
+    margin-top: 5px;
+    font-size: 44px;
+}
+
+#avatar {
+    border-radius: 50%;
+    padding-bottom: 25px;
+
+}
